@@ -9,7 +9,7 @@ A simple alternative for all the websites and plugins that offer similar functio
 	
 ## Usage
 * For Windows 8 and below users must install [.NET 4 or higher version](https://dotnet.microsoft.com/en-us/download) additionally
-1. Download files only "Launch.zip" for using the application, however developers should download everything
+1. Download only "Launch.zip" for using the application, developers should download all files instead
 2. Unzip and start "foe_calc.exe", all the rest files must be located in the same directory as the .exe file. You can create a shortcut and move it to desktop for easier access
 3. Choose your Great Building (GB) from the list
 4. Adjust the outcome with options below
